@@ -1,5 +1,5 @@
 # Task-Viability-Validator-FPS
-Task Viability in Fixed Priority Scheduling under Real time Multi - Processor Environments. 
+Task Viability in Fixed Priority Scheduling under Real time Multi - Processor Environments (Research Ongoing). 
 
 # Task manager
 - A validation system which identifies those tasks which are not feasible under Fixed Priority Scheduling (FPS).
